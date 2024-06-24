@@ -50,14 +50,17 @@ Este proyecto es una aplicación simple de React que muestra una lista de Pokém
     ```bash
     npm start
     ```
-
+    o tambien
+   ```bash
+   npm run dev
+   ``
     o si usas yarn:
 
     ```bash
     yarn start
     ```
 
-2. Abre tu navegador y ve a `http://localhost:3000`.
+3. Abre tu navegador y ve a `http://localhost:3000`.
 
 ## Estructura del Proyecto
 
