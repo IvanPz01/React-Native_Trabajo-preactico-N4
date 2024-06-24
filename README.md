@@ -53,7 +53,7 @@ Este proyecto es una aplicación simple de React que muestra una lista de Pokém
     o tambien
    ```bash
    npm run dev
-   ``
+   ```
     o si usas yarn:
 
     ```bash
